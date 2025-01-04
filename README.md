@@ -69,10 +69,13 @@ Follow these steps to clone the project and run it on your local machine.
    npm run dev 
   This will start the Vite development server and you should see the application running at http://localhost:3000.
 
-  ## License
+ ## License
   
   This project is open-source and available under the MIT License. See the LICENSE file for more information.
 
-  **✨Feel free to open issues or contribute to this project. If you have any questions or feedback, don't hesitate to reach out!✨**
+  ## Contributing
+  
+  **✨Feel free to open issues or contribute to this project. If you have any questions or feedback, don't hesitate to reach out!, We welcome contributions to improve Brainwave! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request with your changes.✨**
+
 
 
