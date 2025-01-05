@@ -2,6 +2,13 @@
 
 Brainwave is a sleek, modern UI/UX website built using React.js and Tailwind CSS, showcasing the latest design trends and offering a reference for developers creating beautiful, responsive web applications.
 
+## Preview
+
+Here’s a quick look at the design:
+
+Check out the [live demo](https://brainwave-sable-five.vercel.app/) 
+
+
 ## Table of Contents
 
 - [Project Description](#project-description)
