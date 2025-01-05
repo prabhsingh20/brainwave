@@ -51,7 +51,7 @@ A modern UI/UX website, developed with React.js and Tailwind CSS, providing an e
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/prabhsingh20/brainwave
+   git clone https://github.com/prabhsingh20/brainwave.git
    
 2. **Navigate to the project directory**
 
