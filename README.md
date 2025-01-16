@@ -1,4 +1,4 @@
-# Brainwave: Modern UI/UX Website Template
+# Brainwave
 
 Brainwave is a sleek, modern UI/UX website built using React.js and Tailwind CSS, showcasing the latest design trends and offering a reference for developers creating beautiful, responsive web applications.
 
